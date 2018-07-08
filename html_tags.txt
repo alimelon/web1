@@ -1,0 +1,15 @@
+[HTML 태그]
+<strong></strong> : 진하게
+<u></u> : 밑줄
+<h1></h1>~<h6></h6> : 제목글씨
+<br> : 줄바꿈
+<p></p> : 단락
+<img> : 사진 src="" / width=""
+<li></li> : 목차
+<ul></ul> : 리스트 구분(경계)-순서x
+<ol>/<ol> : 리스트 구분(경계)-순서o
+ <title></title> : 웹페이지 제목
+<meta charset="utf-8"> : 문자 표현 방식 지정
+<html></html> <head></head> <body></body>
+<!doctype html>
+<a href = ""></a> : link target="_blank" : 새창에서 페이지가 열리게 하는 속성 title="" : link가 어떤 내용을 담고있는지
